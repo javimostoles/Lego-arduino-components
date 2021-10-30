@@ -9,5 +9,5 @@ El principal objetivo de este proyecto es compartir un repositorio de modelos pa
 
 ## LISTADO DE COMPONENTES
 
-- [Servo SG90](https://https://github.com/javimostoles/Lego-arduino-components/blob/main/models/Servo_SG90_vertical_Support/servo_SG90.md)
+- [Servo SG90](https://github.com/javimostoles/Lego-arduino-components/blob/main/models/Servo_SG90_vertical_Support/servo_SG90.md)
 
